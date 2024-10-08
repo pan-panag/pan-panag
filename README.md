@@ -7,7 +7,6 @@
 Electrical and Computer Engineering student, currently learning the basics of the field and exploring various others. I have an interest in cybersecurity, operating systems and computer architecture. I am comfortable writing code in Python, C, and I'm currently learning Java, Verilog and C++.
 
 ### <u>***Languages***</u>
-Programming languages
  + Python
  + C
  + Java
